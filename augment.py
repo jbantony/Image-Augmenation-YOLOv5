@@ -14,7 +14,6 @@ PATH_LABELS = "data/labels"
 
 #TODO:Add destination folder 
 #TODO: Add folder checks, right or wrong folders
-#TODO: Add ReadMe
 #TODO: Add bouding box errors after augmentations
 
 def get_files(path:str, ext:str):

@@ -6,7 +6,7 @@ Created for YOLO Models, can be adapted to more.
 
 - Update with Target directory
 - Update the "out of image" transformations scenario
--
+- Add folder checks
 
 
 ## References:
